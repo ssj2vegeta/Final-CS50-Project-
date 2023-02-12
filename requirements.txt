@@ -1,0 +1,2 @@
+#installed requests library to get specified urll to scrape data
+#installed beautiful soup library to scrap html to extract data 
